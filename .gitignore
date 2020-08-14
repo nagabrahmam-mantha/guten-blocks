@@ -1,0 +1,9 @@
+node_modules/
+lib/
+gulp-config.json
+src/vendor-css
+src/vendor-js
+
+*.DS_Store
+*.swp
+*.tmp
